@@ -1,0 +1,151 @@
+id,gender,area,qualification,income,marital_status,vintage,claim_amount,num_policies,policy,type_of_policy,cltv,T,frequency,recency,predicted_purchases
+10237,Male,Rural,Bachelor,2L-5L,1,1,0,1,B,Gold,32832,4,0,0,0.042138376461671914
+31312,Female,Urban,High School,5L-10L,0,1,0,More than 1,A,Platinum,55344,4,0,0,0.042138376461671914
+48231,Female,Urban,Others,More than 10L,1,1,0,More than 1,B,Platinum,69264,4,0,0,0.042138376461671914
+40905,Male,Rural,High School,5L-10L,1,1,0,More than 1,B,Gold,76164,4,0,0,0.042138376461671914
+65852,Female,Rural,Bachelor,5L-10L,0,1,0,More than 1,A,Platinum,69816,4,0,0,0.042138376461671914
+58541,Male,Urban,High School,5L-10L,1,1,0,1,A,Platinum,46620,4,0,0,0.042138376461671914
+6868,Male,Urban,High School,5L-10L,1,1,0,More than 1,A,Silver,534288,4,0,0,0.042138376461671914
+85056,Male,Urban,High School,5L-10L,1,1,0,1,B,Silver,31200,4,0,0,0.042138376461671914
+75293,Male,Rural,Bachelor,5L-10L,1,1,0,1,A,Platinum,54108,4,0,0,0.042138376461671914
+20880,Male,Rural,Others,5L-10L,0,1,0,More than 1,A,Platinum,99336,4,0,0,0.042138376461671914
+75256,Female,Urban,Bachelor,5L-10L,1,1,0,More than 1,A,Platinum,67236,4,0,0,0.042138376461671914
+2170,Female,Rural,High School,5L-10L,0,1,0,More than 1,A,Gold,107472,4,0,0,0.042138376461671914
+6902,Male,Rural,High School,5L-10L,0,1,0,1,A,Platinum,31452,4,0,0,0.042138376461671914
+48254,Female,Rural,Bachelor,5L-10L,1,1,0,1,A,Gold,41760,4,0,0,0.042138376461671914
+54744,Female,Rural,High School,5L-10L,1,1,0,More than 1,B,Platinum,74304,4,0,0,0.042138376461671914
+6912,Female,Urban,High School,More than 10L,0,1,0,More than 1,A,Platinum,261216,4,0,0,0.042138376461671914
+2153,Female,Urban,Bachelor,More than 10L,0,1,0,More than 1,A,Platinum,60684,4,0,0,0.042138376461671914
+65818,Male,Urban,Bachelor,5L-10L,0,1,0,More than 1,B,Platinum,375264,4,0,0,0.042138376461671914
+31310,Male,Rural,Bachelor,5L-10L,1,1,0,1,B,Gold,44592,4,0,0,0.042138376461671914
+2145,Male,Rural,High School,5L-10L,1,1,0,More than 1,B,Platinum,103080,4,0,0,0.042138376461671914
+13064,Male,Urban,High School,2L-5L,1,1,0,More than 1,A,Platinum,64500,4,0,0,0.042138376461671914
+85132,Male,Rural,High School,5L-10L,1,1,0,1,A,Platinum,32604,4,0,0,0.042138376461671914
+2137,Male,Rural,Bachelor,5L-10L,0,1,0,More than 1,A,Silver,62172,4,0,0,0.042138376461671914
+50872,Male,Rural,Bachelor,5L-10L,0,1,0,More than 1,A,Silver,62640,4,0,0,0.042138376461671914
+85157,Male,Rural,High School,More than 10L,1,1,0,1,C,Gold,66684,4,0,0,0.042138376461671914
+25831,Male,Rural,High School,5L-10L,1,1,0,1,B,Platinum,36168,4,0,0,0.042138376461671914
+36181,Male,Urban,Bachelor,2L-5L,1,1,0,More than 1,A,Platinum,115560,4,0,0,0.042138376461671914
+50864,Male,Rural,Bachelor,5L-10L,0,1,0,1,B,Platinum,61416,4,0,0,0.042138376461671914
+85183,Male,Urban,High School,2L-5L,1,1,0,1,A,Platinum,60780,4,0,0,0.042138376461671914
+28192,Male,Rural,High School,More than 10L,0,1,0,More than 1,A,Silver,101040,4,0,0,0.042138376461671914
+75055,Male,Rural,High School,5L-10L,1,1,0,1,A,Platinum,53244,4,0,0,0.042138376461671914
+13066,Male,Urban,Others,2L-5L,0,1,0,More than 1,C,Gold,111324,4,0,0,0.042138376461671914
+59988,Female,Rural,High School,5L-10L,1,1,0,1,B,Platinum,33072,4,0,0,0.042138376461671914
+28159,Male,Rural,Bachelor,5L-10L,1,1,0,More than 1,A,Platinum,66768,4,0,0,0.042138376461671914
+75034,Male,Rural,High School,5L-10L,1,1,0,1,B,Silver,34104,4,0,0,0.042138376461671914
+75482,Female,Rural,High School,5L-10L,1,1,0,More than 1,A,Silver,67728,4,0,0,0.042138376461671914
+54575,Male,Rural,Bachelor,5L-10L,1,1,0,1,B,Platinum,92424,4,0,0,0.042138376461671914
+62450,Male,Rural,Bachelor,5L-10L,1,1,0,More than 1,A,Silver,31200,4,0,0,0.042138376461671914
+42556,Male,Rural,Bachelor,More than 10L,1,1,0,More than 1,A,Gold,271560,4,0,0,0.042138376461671914
+36003,Female,Rural,Bachelor,5L-10L,1,1,0,1,A,Gold,74544,4,0,0,0.042138376461671914
+6749,Male,Urban,Bachelor,5L-10L,0,1,0,More than 1,C,Platinum,201480,4,0,0,0.042138376461671914
+54588,Male,Rural,High School,5L-10L,1,1,0,More than 1,B,Gold,70740,4,0,0,0.042138376461671914
+58564,Female,Rural,High School,More than 10L,1,1,0,1,A,Platinum,28956,4,0,0,0.042138376461671914
+84903,Male,Rural,Bachelor,More than 10L,0,1,0,1,A,Platinum,58740,4,0,0,0.042138376461671914
+75535,Female,Urban,High School,5L-10L,1,1,0,More than 1,C,Gold,340404,4,0,0,0.042138376461671914
+84916,Female,Rural,High School,5L-10L,0,1,0,1,A,Gold,31584,4,0,0,0.042138376461671914
+28146,Male,Rural,High School,More than 10L,0,1,0,1,C,Platinum,57444,4,0,0,0.042138376461671914
+75521,Male,Rural,Bachelor,5L-10L,1,1,0,1,B,Silver,95820,4,0,0,0.042138376461671914
+54608,Female,Rural,High School,5L-10L,1,1,0,1,A,Silver,31056,4,0,0,0.042138376461671914
+75511,Female,Urban,Bachelor,5L-10L,1,1,0,1,B,Silver,59712,4,0,0,0.042138376461671914
+36044,Female,Rural,High School,5L-10L,0,1,0,1,A,Gold,33924,4,0,0,0.042138376461671914
+46197,Male,Urban,High School,5L-10L,0,1,0,1,C,Platinum,32352,4,0,0,0.042138376461671914
+75475,Male,Rural,Bachelor,5L-10L,1,1,0,1,A,Gold,54912,4,0,0,0.042138376461671914
+65776,Male,Rural,Bachelor,5L-10L,1,1,0,More than 1,A,Platinum,59136,4,0,0,0.042138376461671914
+75429,Female,Rural,Bachelor,5L-10L,1,1,0,More than 1,B,Platinum,58560,4,0,0,0.042138376461671914
+13037,Female,Rural,Bachelor,5L-10L,1,1,0,1,A,Platinum,35208,4,0,0,0.042138376461671914
+31352,Female,Rural,High School,5L-10L,1,1,0,More than 1,B,Silver,66240,4,0,0,0.042138376461671914
+14871,Female,Urban,Bachelor,2L-5L,1,1,0,1,A,Platinum,34728,4,0,0,0.042138376461671914
+14168,Female,Rural,Bachelor,More than 10L,0,1,0,More than 1,C,Silver,66372,4,0,0,0.042138376461671914
+2219,Female,Rural,Bachelor,5L-10L,1,1,0,More than 1,A,Silver,62700,4,0,0,0.042138376461671914
+54647,Female,Rural,Bachelor,5L-10L,0,1,0,1,A,Gold,36000,4,0,0,0.042138376461671914
+59987,Male,Urban,High School,5L-10L,1,1,0,1,A,Gold,43644,4,0,0,0.042138376461671914
+58552,Female,Urban,Bachelor,5L-10L,0,1,0,1,B,Platinum,87552,4,0,0,0.042138376461671914
+65803,Female,Rural,Bachelor,More than 10L,0,1,0,More than 1,A,Gold,75204,4,0,0,0.042138376461671914
+54664,Male,Rural,High School,5L-10L,1,1,0,More than 1,A,Platinum,32580,4,0,0,0.042138376461671914
+23499,Male,Rural,Bachelor,5L-10L,1,1,0,More than 1,A,Platinum,29724,4,0,0,0.042138376461671914
+75037,Female,Rural,Bachelor,5L-10L,1,1,0,More than 1,C,Platinum,68292,4,0,0,0.042138376461671914
+74952,Female,Rural,High School,5L-10L,0,1,0,More than 1,A,Platinum,51480,4,0,0,0.042138376461671914
+65718,Male,Urban,High School,More than 10L,0,1,0,More than 1,B,Platinum,64956,4,0,0,0.042138376461671914
+85607,Female,Rural,Bachelor,More than 10L,0,1,0,More than 1,B,Platinum,177864,4,0,0,0.042138376461671914
+58399,Male,Urban,High School,5L-10L,1,1,0,More than 1,A,Platinum,102228,4,0,0,0.042138376461671914
+25692,Female,Urban,High School,More than 10L,1,1,0,More than 1,A,Gold,100392,4,0,0,0.042138376461671914
+36476,Female,Rural,Bachelor,More than 10L,0,1,0,1,A,Silver,60300,4,0,0,0.042138376461671914
+36477,Male,Urban,High School,5L-10L,1,1,0,More than 1,C,Platinum,104808,4,0,0,0.042138376461671914
+74463,Male,Rural,Bachelor,2L-5L,1,1,0,More than 1,B,Platinum,61788,4,0,0,0.042138376461671914
+74457,Male,Rural,High School,More than 10L,0,1,0,1,A,Gold,51684,4,0,0,0.042138376461671914
+48299,Female,Rural,High School,More than 10L,0,1,0,1,A,Gold,30756,4,0,0,0.042138376461671914
+74456,Male,Rural,Bachelor,5L-10L,1,1,0,More than 1,A,Gold,106164,4,0,0,0.042138376461671914
+74453,Female,Rural,High School,More than 10L,1,1,0,More than 1,A,Silver,47700,4,0,0,0.042138376461671914
+1947,Female,Urban,Bachelor,5L-10L,1,1,0,1,B,Silver,36396,4,0,0,0.042138376461671914
+74450,Female,Rural,High School,5L-10L,0,1,0,More than 1,A,Gold,63204,4,0,0,0.042138376461671914
+46055,Female,Rural,Bachelor,More than 10L,1,1,0,More than 1,B,Gold,117216,4,0,0,0.042138376461671914
+25684,Male,Rural,High School,5L-10L,1,1,0,More than 1,A,Platinum,97524,4,0,0,0.042138376461671914
+74433,Male,Rural,Bachelor,More than 10L,0,1,0,1,A,Gold,37272,4,0,0,0.042138376461671914
+1940,Male,Rural,Bachelor,More than 10L,0,1,0,1,A,Platinum,50640,4,0,0,0.042138376461671914
+31144,Male,Rural,Bachelor,More than 10L,1,1,0,1,A,Platinum,50028,4,0,0,0.042138376461671914
+74423,Female,Urban,High School,More than 10L,1,1,0,1,A,Platinum,35844,4,0,0,0.042138376461671914
+58380,Female,Urban,Bachelor,2L-5L,1,1,0,1,B,Silver,35676,4,0,0,0.042138376461671914
+46050,Male,Urban,Bachelor,2L-5L,1,1,0,More than 1,B,Platinum,55848,4,0,0,0.042138376461671914
+62239,Female,Rural,High School,5L-10L,1,1,0,More than 1,A,Silver,98880,4,0,0,0.042138376461671914
+66141,Male,Rural,Bachelor,5L-10L,0,1,0,1,C,Platinum,59136,4,0,0,0.042138376461671914
+7258,Female,Rural,Bachelor,5L-10L,1,1,0,More than 1,A,Silver,103212,4,0,0,0.042138376461671914
+16517,Male,Rural,Bachelor,5L-10L,0,1,0,1,B,Silver,46488,4,0,0,0.042138376461671914
+85645,Female,Rural,High School,5L-10L,1,1,0,More than 1,B,Platinum,61440,4,0,0,0.042138376461671914
+74372,Male,Rural,Bachelor,5L-10L,1,1,0,1,A,Platinum,30252,4,0,0,0.042138376461671914
+36523,Female,Rural,High School,More than 10L,1,1,0,1,B,Platinum,37476,4,0,0,0.042138376461671914
+66170,Male,Urban,Bachelor,5L-10L,1,1,0,More than 1,B,Platinum,67164,4,0,0,0.042138376461671914
+25656,Male,Rural,High School,5L-10L,1,1,0,More than 1,A,Silver,98112,4,0,0,0.042138376461671914
+44507,Female,Urban,Bachelor,2L-5L,1,1,0,More than 1,A,Silver,51180,4,0,0,0.042138376461671914
+36549,Male,Rural,High School,5L-10L,0,1,0,More than 1,A,Gold,43620,4,0,0,0.042138376461671914
+62259,Male,Rural,Bachelor,5L-10L,1,1,0,1,A,Platinum,57120,4,0,0,0.042138376461671914
+50712,Male,Urban,High School,5L-10L,1,1,0,More than 1,A,Silver,92976,4,0,0,0.042138376461671914
+2086,Male,Rural,High School,More than 10L,0,1,0,More than 1,B,Platinum,66264,4,0,0,0.042138376461671914
+66025,Male,Rural,High School,5L-10L,0,1,0,1,A,Gold,50568,4,0,0,0.042138376461671914
+36241,Female,Rural,Bachelor,2L-5L,1,1,0,1,B,Silver,44376,4,0,0,0.042138376461671914
+60031,Male,Rural,Bachelor,5L-10L,0,1,0,1,C,Gold,32928,4,0,0,0.042138376461671914
+65978,Female,Urban,High School,5L-10L,1,1,0,More than 1,A,Platinum,105852,4,0,0,0.042138376461671914
+19887,Male,Rural,High School,5L-10L,1,1,0,More than 1,A,Platinum,95016,4,0,0,0.042138376461671914
+46108,Male,Rural,Bachelor,More than 10L,1,1,0,1,A,Platinum,58668,4,0,0,0.042138376461671914
+18619,Male,Rural,Bachelor,More than 10L,1,1,0,1,A,Silver,52308,4,0,0,0.042138376461671914
+13082,Male,Rural,Bachelor,More than 10L,0,1,0,1,B,Platinum,58728,4,0,0,0.042138376461671914
+54920,Female,Rural,High School,2L-5L,1,1,0,1,A,Platinum,52224,4,0,0,0.042138376461671914
+36285,Female,Rural,High School,5L-10L,1,1,0,More than 1,B,Platinum,107712,4,0,0,0.042138376461671914
+11314,Female,Urban,Bachelor,More than 10L,1,1,0,More than 1,B,Silver,76572,4,0,0,0.042138376461671914
+7083,Female,Rural,Bachelor,5L-10L,1,1,0,More than 1,A,Platinum,75036,4,0,0,0.042138376461671914
+74766,Female,Rural,High School,More than 10L,1,1,0,1,A,Platinum,53640,4,0,0,0.042138376461671914
+85351,Male,Rural,Bachelor,More than 10L,1,1,0,More than 1,A,Platinum,68100,4,0,0,0.042138376461671914
+16576,Male,Rural,Bachelor,5L-10L,0,1,0,More than 1,B,Platinum,45732,4,0,0,0.042138376461671914
+62296,Male,Urban,High School,5L-10L,1,1,0,1,C,Silver,34224,4,0,0,0.042138376461671914
+58415,Male,Rural,Bachelor,5L-10L,1,1,0,1,A,Gold,58380,4,0,0,0.042138376461671914
+50785,Female,Urban,High School,2L-5L,0,1,0,More than 1,A,Platinum,102132,4,0,0,0.042138376461671914
+36349,Male,Rural,High School,More than 10L,1,1,0,1,A,Silver,37500,4,0,0,0.042138376461671914
+31196,Female,Urban,High School,More than 10L,1,1,0,More than 1,A,Silver,68592,4,0,0,0.042138376461671914
+16572,Male,Rural,Bachelor,More than 10L,1,1,0,More than 1,B,Silver,58728,4,0,0,0.042138376461671914
+14920,Male,Urban,Bachelor,5L-10L,0,1,0,1,A,Platinum,46752,4,0,0,0.042138376461671914
+19884,Female,Urban,Bachelor,5L-10L,1,1,0,More than 1,B,Platinum,73500,4,0,0,0.042138376461671914
+31172,Female,Urban,Bachelor,5L-10L,1,1,0,More than 1,A,Platinum,61740,4,0,0,0.042138376461671914
+85417,Female,Urban,Bachelor,5L-10L,1,1,0,More than 1,B,Gold,64056,4,0,0,0.042138376461671914
+36441,Male,Rural,Bachelor,5L-10L,1,1,0,More than 1,A,Platinum,101712,4,0,0,0.042138376461671914
+74607,Male,Urban,High School,More than 10L,0,1,0,More than 1,B,Gold,65520,4,0,0,0.042138376461671914
+36447,Female,Urban,High School,5L-10L,0,1,0,More than 1,B,Gold,73440,4,0,0,0.042138376461671914
+1993,Female,Urban,Bachelor,5L-10L,1,1,0,1,A,Platinum,32040,4,0,0,0.042138376461671914
+85481,Male,Rural,Bachelor,5L-10L,0,1,0,1,A,Platinum,36780,4,0,0,0.042138376461671914
+85495,Female,Rural,High School,5L-10L,0,1,0,1,A,Platinum,66528,4,0,0,0.042138376461671914
+18548,Male,Rural,Bachelor,5L-10L,0,1,0,More than 1,C,Platinum,63780,4,0,0,0.042138376461671914
+46254,Male,Rural,High School,5L-10L,1,1,0,1,A,Platinum,32868,4,0,0,0.042138376461671914
+85698,Male,Rural,High School,5L-10L,1,1,0,1,A,Platinum,38508,4,0,0,0.042138376461671914
+18470,Male,Rural,High School,5L-10L,1,1,0,More than 1,A,Silver,61116,4,0,0,0.042138376461671914
+54241,Female,Rural,Bachelor,5L-10L,1,1,0,More than 1,A,Gold,74748,4,0,0,0.042138376461671914
+76461,Male,Rural,Bachelor,5L-10L,0,1,0,1,A,Platinum,74460,4,0,0,0.042138376461671914
+26159,Male,Urban,Bachelor,5L-10L,1,1,0,More than 1,B,Platinum,60252,4,0,0,0.042138376461671914
+76429,Female,Urban,Bachelor,5L-10L,0,1,0,1,A,Silver,35388,4,0,0,0.042138376461671914
+76399,Female,Rural,High School,2L-5L,0,1,0,1,C,Silver,35988,4,0,0,0.042138376461671914
+54273,Male,Urban,Others,5L-10L,1,1,0,More than 1,A,Platinum,60612,4,0,0,0.042138376461671914
+62603,Male,Rural,High School,5L-10L,1,1,0,More than 1,A,Platinum,31704,4,0,0,0.042138376461671914
+6346,Male,Rural,Bachelor,5L-10L,0,1,0,1,A,Gold,30804,4,0,0,0.042138376461671914
+76372,Male,Rural,Bachelor,5L-10L,1,1,0,More than 1,A,Silver,66540,4,0,0,0.042138376461671914
+31633,Female,Urban,High School,5L-10L,0,1,0,1,C,Platinum,60456,4,0,0,0.042138376461671914
+76365,Female,Rural,High School,More than 10L,1,1,0,1,A,Platinum,36324,4,0,0,0.042138376461671914
+14803,Female,Rural,Bachelor,5L-10L,1,1,0,More than 1,A,Platinum,43092,4,0,0,0.042138376461671914
